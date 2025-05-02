@@ -1,1 +1,1 @@
-Projeto de uma Pizzaria Virtual, do OnebitCode - Professor Isaac Pontes
+Projeto de uma Pizzaria Virtual.
